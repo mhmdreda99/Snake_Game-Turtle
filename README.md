@@ -4,6 +4,11 @@
 
 This Snake Game is a classic implementation using the Turtle graphics library in Python. The player controls a snake that moves around the screen, eating food to grow longer. The game continues until the snake collides with the screen border or itself.
 
+## Requirements
+
+- Python 3.x
+- Turtle graphics library
+
 ## Instructions
 
 Use the following keys to control the snake:
@@ -32,5 +37,12 @@ Use the following keys to control the snake:
 
 1. Ensure you have Python installed on your system.
 2. Run the script using the command: `python snake_game.py`
+## Screenshots
+
+![Gameplay Screenshot 1](/game.png)
+
+## Contributing
+
+If you'd like to contribute to the Snake Game project, please follow these guidelines...
 
 Enjoy playing the Snake Game!
